@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BooklyApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sample_book_name_text">Harry Potter and the Goblet of Fire</string>
+    <string name="j_k_rowling">J.K. Rowling</string>
+    <string name="price_text">19.99 €</string>
+    <string name="rate_score_text">4.8</string>
+    <string name="rate_amount_text">(2390)</string>
+    <string name="best_seller_text">Best Seller</string>
+    <string name="logo_text">BO<u>O</u>KLY</string>
+    <string name="sample_detail_text_name_of_book">The Jungle Book</string>
+    <string name="free_preview">Free preview</string>
+    <string name="recommendation">You can also like</string>
+</resources>
